@@ -487,3 +487,4 @@ lvgl_clock();
    
    和当前时间一样，测试成功
    （这里放第二个动图）
+   ![img](https://github.com/BlueBoxChamil/LVGL-clock/blob/master/image/gif-2.gif)
