@@ -327,6 +327,7 @@ lvgl_clock_init();
    5. 下载测试
       时钟在转动，测试成功
       （这里放gif动图显示动态时钟）
+      ![image](https://github.com/BlueBoxChamil/LVGL-clock/tree/master/image/../../../../../../../image/gif-1.gif)
 
 ### 5. LVGL时钟
 1. 添加时针和分针图像
