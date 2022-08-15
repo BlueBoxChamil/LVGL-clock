@@ -11,7 +11,7 @@
 ## 硬件
 1. 开发板：esp32(devkitv1)
    
-   ![](image/01.jpg)
+   ![img.jpg](image/01.jpg)
 
    
 2. lcd屏幕(驱动ic：st7789, 像素240*240，spi接口)
